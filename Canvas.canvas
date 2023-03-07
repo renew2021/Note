@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6fb1f57d567bd16d","x":-157,"y":8,"width":250,"height":60,"type":"text","text":"思维导图"},
+		{"id":"32bbb17c323f0fb9","x":-156,"y":236,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"43a746681b41d724","fromNode":"6fb1f57d567bd16d","fromSide":"bottom","toNode":"32bbb17c323f0fb9","toSide":"top"}
+	]
+}

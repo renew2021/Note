@@ -1,0 +1,14 @@
+{
+  "accentColor": "#c26972",
+  "cssTheme": "Obsidian Nord",
+  "theme": "moonstone",
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "微软雅黑",
+  "interfaceFontFamily": "微软雅黑",
+  "enabledCssSnippets": [
+    "预览模式优化-空白行-行间距",
+    "表格优化"
+  ],
+  "baseFontSize": 18,
+  "translucency": false
+}
